@@ -143,7 +143,7 @@ class ThingsboardClient {
     //     options:
     //         defaultHttpOptionsFromConfig(RequestConfig(ignoreLoading: true)));
     Map<String, String> response = {
-      "version": "3.3.0PE-1",
+      "version": "3.4.2-SNAPSHOT",
       "artifact": "application",
       "name": "ThingsBoard Server Application",
     };
